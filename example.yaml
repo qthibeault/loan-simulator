@@ -1,0 +1,8 @@
+loan:
+  amount: 13000
+  interest: 0.00018082191
+simulations:
+  - amount: 100
+    period: 7
+  - amount: 400
+    period: 30
